@@ -1,0 +1,32 @@
+header.text-gray-600.body-font {
+    background-color: #31622c;
+    color: rgb(194, 175, 175);
+}
+.text-gray-600.body-font.overflow-hidden{
+    background-image: url(./background1.png);
+    background-size: cover;
+}
+.text-gray-600.body-font{
+    background-color: rgb(207, 207, 219);
+}
+img{
+    background-size: cover;
+}
+a{
+    color: #000;
+}
+.text-gray-600.body-fonta{
+    background-color: rgb(34, 28, 119);
+}
+.text-gray-600.body-font.relative{
+    background-color: rgb(12, 53, 128);
+}
+.flex.flex-col.text-center.w-full.mb-12{
+    color: #000;
+}
+.text-gray-600.body-font{
+   background-color: aquamarine;
+}
+.leading-relaxed.text-base{
+    color: rgb(12, 14, 1);
+}
